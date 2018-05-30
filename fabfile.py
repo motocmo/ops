@@ -3,7 +3,7 @@ from fabric.contrib.files import *
 from constant import *
 
 env.user = 'web'
-env.password = 'web@HuaData61^'
+env.password = '123456'
 # env.hosts = ['sjk-test.me']
 # env.user = 'hzdsj'
 # env.password = 'ji2co2vdmw'
